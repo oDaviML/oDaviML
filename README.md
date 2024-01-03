@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá! Eu sou o Davi 👋
+## 🙋‍♂️ Sobre Mim
+Sou um entusiasta da tecnologia de 18 anos, formado em Técnico em Informática pelo CEFET-MG. Atualmente, estou explorando o mundo do desenvolvimento de software, com objetivo de me tornar um desenvolvedor back-end.
 
-<!--
-**oDaviML/oDaviML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Habilidades
 
-Here are some ideas to get you started:
+- Front-end: **HTML, CSS, JavaScript, React**
+- Back-end: **Java, PHP**
+- Banco de dados: **MySQL, PostgreSQL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 O que estou fazendo
+
+- Estudando **.NET**, **Node.js** e **Spring** para criar aplicações web dinâmicas e escaláveis.
+- Participando de cursos, bootcamps e desafios online para aprimorar as minhas habilidades e competências.
+
+
+## 📫 Contato
+
+- E-mail: davimartinslage2005@gmail.com
+- Linkedin: https://www.linkedin.com/in/odaviml/
