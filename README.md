@@ -11,7 +11,7 @@ Sou um entusiasta da tecnologia de 18 anos, formado em Técnico em Informática 
 
 ## 🌱 O que estou fazendo
 
-- Estudando **.NET**, **Node.js** e **Spring** para criar aplicações dinâmicas e escaláveis.
+- Estudando **Spring Boot** e **Node.js** para criar aplicações dinâmicas e escaláveis.
 - Participando de cursos, bootcamps e desafios online para aprimorar as minhas habilidades e competências.
 
 ## 🚀 Projetos
