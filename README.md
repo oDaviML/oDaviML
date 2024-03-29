@@ -4,15 +4,14 @@ Sou um entusiasta da tecnologia de 18 anos, formado em Técnico em Informática 
 
 ## 💻 Habilidades
 
-- Front-end: **HTML, CSS, JavaScript, React**
-- Back-end: **Java, PHP**
+- Linguagens de Programação: **Java, Dart, HTML, CSS, JavaScript**
+- Frameworks: **Spring Boot, Flutter, React**
 - Frameworks de teste: Experiência com **Selenium** e **JUnit** em Java
 - Banco de dados: **MySQL, PostgreSQL, Amazon RDS e S3**
 
 ## 🌱 O que estou fazendo
 
-- Estudando **Spring Boot** e **Node.js** para criar aplicações dinâmicas e escaláveis.
-- Participando de cursos, bootcamps e desafios online para aprimorar as minhas habilidades e competências.
+- Estou focado em aprimorar minhas habilidades em **Spring Boot** e **Flutter** para criar aplicações dinâmicas e escaláveis.
 
 ## 🚀 Projetos
 
