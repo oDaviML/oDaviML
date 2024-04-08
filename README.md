@@ -4,7 +4,7 @@ Sou um entusiasta da tecnologia de 18 anos, formado em Técnico em Informática 
 
 ## 💻 Habilidades
 
-- Linguagens de Programação: **Java, Dart, HTML, CSS, JavaScript**
+- Linguagens de Programação: **Java, Dart, PHP, HTML, CSS, JavaScript**
 - Frameworks: **Spring Boot, Flutter, React**
 - Frameworks de teste: Experiência com **Selenium** e **JUnit** em Java
 - Banco de dados: **MySQL, PostgreSQL, Amazon RDS e S3**
