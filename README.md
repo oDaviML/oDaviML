@@ -1,6 +1,4 @@
 # Olá! Eu sou o Davi 👋
-## 🙋‍♂️ Sobre Mim
-Formado em Técnico em Informática pelo CEFET-MG.
 
 ## 💻 Habilidades
 
